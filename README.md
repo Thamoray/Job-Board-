@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+* Development of a web application allowing the managment of internal projects and resources. Contributors can submit ideas to the Digital Factory. DF administrator(s) can validate submitted ideas to be launched as
+project.
+• Needs analysis of the management concerned
+• Establish the logical model of the application
+• Development of a personalized WebPart with React.js
+• Unit tests
+• Deployment of the application on SPFx
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/68j2.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/hc98.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/0vnr.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
